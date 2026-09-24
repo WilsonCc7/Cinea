@@ -58,9 +58,9 @@ Viewers only talk to Cinea. Cinea's backend talks to Jellyfin on their behalf, s
 | Database | _e.g. PostgreSQL / SQLite_ |
 | Media server | [Jellyfin](https://jellyfin.org) (self-hosted) |
 
-## Getting Started
 
-### Prerequisites
+
+### If you want to run it yourself using your own jellyfin
 
 - A machine or server to run **Jellyfin** (10.8 or newer recommended)
 - A Jellyfin **API key** (Dashboard → API Keys)
